@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Im006_1
+  - Im020_1
+  - Im024_1
+  - Im026_1
+  - Im028_1
+  - Im031_1
+  - Im035_0
+  - Im041_0
+  - Im047_0
+  - Im053_1
+  - Im057_1
+  - Im060_1
+  - Im063_1
+  - Im069_0
+  - Im074_0
+  - Im088_0
+  - Im095_0
+  - Im099_0
+  - Im101_0
+  - Im106_0
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
